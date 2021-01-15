@@ -2,12 +2,32 @@
 
 .container {
   font-family:chelsea market;
-  background-color: yellow;
+  background-color: #cc99ff;
   color:white;
   text-shadow:2px 2px black;
   padding:20px;
   
+  
 }
+
+a{
+  color:white;
+  text-decoration:none;
+  border:1px solid white;
+  padding:10px
+}
+
+h2{
+  font-family:chelsea market;
+  text-align: Right;
+}
+
+
+  
+ 
+  
+  
+
 
 
 
@@ -17,4 +37,8 @@
  height:150px;
   width:150px;
   display:flex;
+  justify-content:center;
+  
 }
+ 
+
